@@ -9,5 +9,5 @@ gulp.task('sass', function () {
 })
 
 gulp.task('server', function () {
-	console.log('hi server');
+	console.log('hi server2');
 })
