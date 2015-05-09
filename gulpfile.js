@@ -7,3 +7,7 @@ gulp.task('default', function () {
 gulp.task('sass', function () {
 	console.log('hi eclipse');
 })
+
+gulp.task('server', function () {
+	console.log('hi server');
+})
