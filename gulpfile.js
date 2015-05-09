@@ -5,5 +5,5 @@ gulp.task('default', function () {
 });
 
 gulp.task('sass', function () {
-	
+	console.log('hi sass');
 })
